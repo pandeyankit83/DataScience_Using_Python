@@ -26,7 +26,7 @@ jupyter-repo2docker==0.7.0
 jupyterlab==0.35.4
 jupyterlab-server==0.2.0
 matplotlib==2.2.2
-nbconvert==5.4.0
+nbconvert==6.5.1
 nbformat==4.4.0
 nose==1.3.7
 numpy==1.15.4
